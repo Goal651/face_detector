@@ -165,7 +165,3 @@ Adjust parameters in the respective files:
 - [MediaPipe Face Detection](https://google.github.io/mediapipe/solutions/face_detection)
 - [OpenCV LBPH](https://docs.opencv.org/4.x/df/d25/classcv_1_1face_1_1LBPHFaceRecognizer.html)
 - [Local Binary Patterns (Wikipedia)](https://en.wikipedia.org/wiki/Local_binary_patterns)
-
-## 📄 License
-
-This project is for educational purposes (Week 13 Assignment - AI Without ML).
